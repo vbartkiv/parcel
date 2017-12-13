@@ -1,0 +1,65 @@
+{
+  "short_name": "APP",
+  "name": "SUPER APP",
+  "icons": [
+    {
+      "src": "./icons/nuclear-icon-16-213215.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-24-213215.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-32-213215.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-48-213215.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-57-213215.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-64-213215.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-72-213215.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-114-213215.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-120-213215.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-144-213215.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/nuclear-icon-152-213215.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#40b4e5",
+  "background_color": "#ffffff"
+}
